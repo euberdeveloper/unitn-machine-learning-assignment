@@ -3,7 +3,7 @@ The assignment of the course "Introuction to machine learning" of UNITN (2020/20
 
 ## The project
 
-The project consisted in training a neural network so that it could classify the type of a galaxy.
+The project consisted in training a neural network so that it could classify the type of a galaxy. [This](https://github.com/euberdeveloper/unitn-machine-learning-assignment/blob/main/assets/consegna.pdf) was the assignment.
 
 ## The code
 
@@ -11,7 +11,7 @@ The code of this repository is not the code that has been really used. This is b
 
 ## The report
 
-The report described what had been done and was to be submitted along with the code.
+The report described what had been done and was to be submitted along with the code. [This](https://github.com/euberdeveloper/unitn-machine-learning-assignment/blob/main/assets/report.pdf) was the report.
 
 ## The oral exam
 
